@@ -1,12 +1,26 @@
 # 👋 Hi, I'm Krishna Bisani
 
-🎓 Computer Science M.S. @ USC  
-💡 Passionate about machine learning, real-time systems, and fintech  
-📈 Currently building: [low-latency signal pipeline](https://github.com/kbisani/low_latency_signal_pipeline)
+🎓 CS M.S. @ USC | 💼 Tech + Finance + ML  
+📍 Los Angeles | ✉️ kbisani@usc.edu  
+🔗 [LinkedIn](https://linkedin.com/in/krishna-bisani) • [GitHub](https://github.com/kbisani)
 
-## 🔧 Projects
-- **Crypto Signal Engine**: Real-time prediction pipeline with C++ & XGBoost [→ repo](https://github.com/kbisani/low_latency_signal_pipeline)
-- **ImpulseAI**: Chrome extension to reduce impulsive spending (LLM-based) [→ repo](https://github.com/kbisani/impulseai-extension)
+---
 
-## 🛠️ Skills
-`Python` `C++` `XGBoost` `PyTorch` `React` `WebSockets` `Real-Time Systems`
+## ⚡ Featured Project
+### [🔁 Real-Time Crypto Signal Pipeline](https://github.com/kbisani/low_latency_signal_pipeline)
+> 🚀 Streams live Binance trades, extracts C++ features, classifies short-term price moves via ML models  
+> 🧠 13+ alpha signals • 20k+ predictions • 41% live accuracy • Continuous retraining pipeline  
+> Exploring RL & Transformers for adaptive trading
+
+---
+
+## 🛠️ Tech Stack
+`Python` `C++` `XGBoost` `PyTorch`  
+`WebSockets` `PostgreSQL` `React.js`  
+`Selenium` `Pybind11` `GitHub Actions`
+
+---
+
+## ✍️ Recent Work
+- 🔎 **ImpulseAI Extension** – Impulse-control browser extension using OpenAI LLMs
+- 🛠️ **Outbound Engine Automation** – Built internal CRM + outreach tech stack at Allied Legacy Partners
