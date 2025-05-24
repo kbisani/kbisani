@@ -22,5 +22,5 @@
 ---
 
 ## ✍️ Recent Work
-- 🔎 **ImpulseAI Extension** – Impulse-control browser extension using OpenAI LLMs
+- 🔎 **ImpulseAI Extension** – Impulse-control browser extension using LLMs (still under development)
 - 🛠️ **Outbound Engine Automation** – Built internal CRM + outreach tech stack at Allied Legacy Partners
