@@ -22,5 +22,6 @@
 ---
 
 ## ✍️ Recent Work
-- 🔎 **ImpulseAI Extension** – Impulse-control browser extension using LLMs (still under development)
+- 🔎 **ImpulseAI Extension** – Impulse-control browser extension using LLMs (still passively under development)
 - 🛠️ **Outbound Engine Automation** – Built internal CRM + outreach tech stack at Allied Legacy Partners
+- 💡 **Voice-based Legacy Preserving** – Building an app that allows to interact voice-first to save memories of loved ones.
